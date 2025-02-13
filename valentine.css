@@ -402,7 +402,7 @@
   }
   #chair {
      
-    bottom: 25px;
+    bottom: 18px;
     height: 6%;
     left: 10%;
     z-index: 9999;
@@ -422,8 +422,8 @@
 }
 
 #chair img { 
-    width: 80%;
-    height: auto;
+    width: 85%;
+    height: 90%;
     border-radius: 10px;
 }
 
@@ -433,20 +433,20 @@
     border-radius: 10px;  /* Optional: rounds the corners of the video  */
 
 #try { 
-    bottom: 60px;
+    bottom: 25px;
     left: 83%;
 }
 #middle{
-    bottom: 750px;
+    bottom: 760px;
     left: 83%;
 }
 #finally { 
-    bottom: 776px;
+    bottom: 769px;
     left: 78%;
 }
 #finally img { 
     height: 100%;
-    width: auto;
+    width: 83%;
 }
 #happy-message {
     position: absolute;
