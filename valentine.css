@@ -1,4 +1,4 @@
-/* Entrance love display */ 
+
 #love {
     position: absolute;
     width: 600px;
@@ -288,7 +288,7 @@
    p{
     color: white;
    }
-   /* From Uiverse.io by Saad3092003 */ 
+
 .one-div {
     position: relative;
     height: 250px;
@@ -333,8 +333,7 @@
       transform: rotateX(-15deg) translateY(0px);
     }
   }
-
-  /* From Uiverse.io by Yaya12085 */ 
+ 
 .page {
     position: relative;
     left: 26%;
@@ -395,10 +394,9 @@
     line-height: 20px;
   }
   #hidden-content img {
-    width: 90%; /* Makes the image fill the width of its container */
-    height: auto; /* Keeps the aspect ratio intact */
-    border-radius: 10px; /* O
-    ptional: adds rounded corners to the image */
+    width: 90%; 
+    height: auto; 
+    border-radius: 10px; 
   }
   #chair {
      
@@ -413,8 +411,8 @@
 #pic { 
     position: absolute; /* Absolutely position it */
     bottom: 30px; /* Lower value to move it up a bit, causing overlap */
-    left: 62px; /* Move it to the right to overlap the second one */
-    animation: rot 2s infinite ease; /* Keep the animation */
+    left: 62px; 
+    animation: rot 2s infinite ease; /* animation */
     
 }
 #pic img { 
@@ -427,13 +425,8 @@
     border-radius: 10px;
 }
 
-/*.one-div video {
-    width: 80%;  /* Adjust the width of the video 
-    height: auto;  /* Maintain aspect ratio 
-    border-radius: 10px;  /* Optional: rounds the corners of the video  */
-
 #try { 
-    bottom: 25px;
+    bottom: 45px;
     left: 83%;
 }
 #middle{
